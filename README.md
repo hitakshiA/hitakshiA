@@ -1,50 +1,54 @@
-Hi, I’m Hitakshi Arora.
+## Hi, I’m Hitakshi Arora 👋
 
-I am a Computer Science (Data Science) undergraduate with a strong interest in backend systems and data engineering. I enjoy building scalable applications, working with large datasets, and improving system reliability through clean, well-structured code.
+🎓 Computer Science (Data Science) undergraduate  
+💻 Aspiring Data Engineer / Backend Developer  
+
+I enjoy building scalable backend systems, working with large datasets, and improving system reliability through clean, well-structured code.
 
 ---
 
-### Education
+### 🎓 Education
 **B.Tech in Computer Science & Engineering (Data Science)**  
 SRM Institute of Science and Technology  
-CGPA: 9.09
+📊 CGPA: **9.09**
 
 ---
 
-### Technical Skills
+### 🛠️ Technical Skills
 - **Languages:** Java, Python, JavaScript, TypeScript, Kotlin  
 - **Core:** Data Structures & Algorithms, DBMS, OOP  
 - **Data & Backend:** Apache NiFi, Spark, Hadoop, Hudi, Node.js, Express  
-- **Tools:** Git, GitHub, Google Cloud, PostgreSQL
+- **Tools & Platforms:** Git, GitHub, Google Cloud, PostgreSQL  
 
 ---
 
-### Experience
+### 💼 Experience
 **Data Engineering Intern — National Informatics Centre (NIC)**  
-*Jun 2025 – Aug 2025*
+🗓️ *Jun 2025 – Aug 2025*
 
-- Built and optimized high-throughput data pipelines processing 40–50 GB/day, scaled up to 4 TB/day.
-- Improved ETL reliability with automated error recovery and load balancing, reducing downtime by 35%.
-- Refactored workflows to reduce data processing time by 45%.
-
----
-
-### Selected Projects
-- **AASO – Automated Application Security Optimizer**  
-  VS Code extension for detecting code vulnerabilities with AI-assisted remediation.  
-  https://github.com/hitakshiA/AASO_Extension
-
-- **BigBuddy**  
-  Backend-driven mobile application connecting users with mentors and counselors, featuring secure authentication and video consultations.  
-  https://github.com/hitakshiA/BIGBUDDY
+- Built and optimized high-throughput data pipelines processing **40–50 GB/day**, scaled up to **4 TB/day**.
+- Improved ETL reliability with automated error recovery and load balancing, reducing downtime by **35%**.
+- Refactored workflows to reduce data processing time by **45%**.
 
 ---
 
-### Achievements
-- DomainFi Challenge Winner (2025) — Awarded $10,000 USDC for building blockchain domain infrastructure.
-- Research contribution on privacy preservation in cloud computing for the healthcare sector.
-- Finalist (Top 16 out of 7500+ teams), SBI Life Hack-AI-Thon 2024.
+### 🚀 Selected Projects
+🔹 **AASO – Automated Application Security Optimizer**  
+VS Code extension for detecting code vulnerabilities with AI-assisted remediation.  
+👉 https://github.com/hitakshiA/AASO_Extension
+
+🔹 **BigBuddy**  
+Backend-driven mobile application connecting users with mentors and counselors, featuring secure authentication and video consultations.  
+👉 https://github.com/hitakshiA/BIGBUDDY
 
 ---
 
-I use GitHub to build production-oriented projects, document learning, and grow as a backend and data-focused engineer.
+### 🏆 Achievements
+- 🥇 **DomainFi Challenge Winner (2025)** — Awarded **$10,000 USDC** for blockchain domain infrastructure.
+- 🎓 **Dean’s List** — Top **1%** of cohort, SRM Institute of Science and Technology *(2023, 2024)*.
+- 📄 Research contribution on privacy preservation in cloud computing for healthcare.
+- 🚀 Finalist (**Top 16 / 7500+ teams**), SBI Life Hack-AI-Thon 2024.
+
+---
+
+✨ I use GitHub to build production-oriented projects, document learning, and grow as a backend and data-focused engineer.
