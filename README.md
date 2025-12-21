@@ -1,9 +1,9 @@
 ## Hi, I’m Hitakshi Arora 👋
 
 🎓 Computer Science (Data Science) undergraduate  
-💻 Aspiring Data Engineer / Backend Developer  
+💻 Full-Stack & Android App Developer  
 
-I enjoy building scalable backend systems, working with large datasets, and improving system reliability through clean, well-structured code.
+I enjoy building scalable applications, working with data-driven systems, and improving system reliability through clean, well-structured code.
 
 ---
 
@@ -38,7 +38,7 @@ VS Code extension for detecting code vulnerabilities with AI-assisted remediatio
 👉 https://github.com/hitakshiA/AASO_Extension
 
 🔹 **BigBuddy**  
-Backend-driven mobile application connecting users with mentors and counselors, featuring secure authentication and video consultations.  
+Full-stack mobile application connecting users with mentors and counselors, featuring secure authentication and video consultations.  
 👉 https://github.com/hitakshiA/BIGBUDDY
 
 ---
@@ -50,4 +50,4 @@ Backend-driven mobile application connecting users with mentors and counselors, 
 
 ---
 
-✨ I use GitHub to build production-oriented projects, document learning, and grow as a backend and data-focused engineer.
+✨ I use GitHub to build production-oriented projects, document learning, and grow as a full-stack and Android app developer.
