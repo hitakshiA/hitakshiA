@@ -1,54 +1,60 @@
-<h2>Hi, I’m Hitakshi Arora 👋</h2>
+## 👋 Hi there, I’m Hitakshi Arora!
 
-🎓 <b>Computer Science (Data Science) Undergraduate</b>  
-📱💻 <b>Full-Stack & Android App Developer</b>
+🎓 **Computer Science (Data Science) Undergraduate**  
+📱💻 **Full-Stack & Android App Developer**
 
-I enjoy building scalable applications, working with data-driven systems, and improving system reliability through clean, well-structured code.
+I’m passionate about building scalable applications, working with data-driven systems, and learning by building real-world projects.
 
-<hr/>
+---
 
-### 🎓 <span style="color:#4CAF50">Education</span>
-<b>B.Tech in Computer Science & Engineering (Data Science)</b><br/>
+### 🔧 When I code, I work with
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+---
+
+### 🎓 Education
+**B.Tech in Computer Science & Engineering (Data Science)**  
 SRM Institute of Science and Technology  
-📊 CGPA: <b>9.09</b>
+📊 **CGPA:** 9.09
 
-<hr/>
+---
 
-### 🛠️ <span style="color:#2196F3">Technical Skills</span>
-- 💻 <b>Languages:</b> Java, Python, JavaScript, TypeScript, Kotlin  
-- 🧠 <b>Core:</b> Data Structures & Algorithms, DBMS, OOP  
-- ⚙️ <b>Data & Backend:</b> Apache NiFi, Spark, Hadoop, Hudi, Node.js, Express  
-- ☁️ <b>Tools & Platforms:</b> Git, GitHub, Google Cloud, PostgreSQL  
+### 💼 Experience
+**Data Engineering Intern — National Informatics Centre (NIC)**  
+*Jun 2025 – Aug 2025*
 
-<hr/>
+- Built high-throughput ETL pipelines processing **40–50 GB/day**, scaled to **4 TB/day**
+- Improved pipeline reliability with automated recovery and load balancing (**35% less downtime**)
+- Optimized workflows to reduce processing time by **45%**
 
-### 💼 <span style="color:#FF9800">Experience</span>
-<b>Data Engineering Intern — National Informatics Centre (NIC)</b>  
-🗓️ <i>Jun 2025 – Aug 2025</i>
+---
 
-- 🚀 Built high-throughput data pipelines processing <b>40–50 GB/day</b>, scaled up to <b>4 TB/day</b>.
-- 🔧 Improved ETL reliability with automated error recovery and load balancing, reducing downtime by <b>35%</b>.
-- ⚡ Refactored workflows to reduce data processing time by <b>45%</b>.
-
-<hr/>
-
-### 🚀 <span style="color:#9C27B0">Selected Projects</span>
-🔹 <b>AASO – Automated Application Security Optimizer</b>  
-VS Code extension for detecting code vulnerabilities with AI-assisted remediation.  
+### 🚀 Featured Projects
+🔹 **AASO – Automated Application Security Optimizer**  
+VS Code extension for detecting vulnerabilities with AI-assisted remediation  
 👉 https://github.com/hitakshiA/AASO_Extension
 
-🔹 <b>BigBuddy</b>  
-Full-stack mobile application connecting users with mentors and counselors, featuring secure authentication and video consultations.  
+🔹 **BigBuddy**  
+Full-stack Android application connecting users with mentors and counselors  
 👉 https://github.com/hitakshiA/BIGBUDDY
 
-<hr/>
+---
 
-### 🏆 <span style="color:#E91E63">Achievements</span>
-- 🥇 <b>DomainFi Challenge Winner (2025)</b> — Awarded <b>$10,000 USDC</b> for blockchain domain infrastructure.
-- 🎓 <b>Dean’s List</b> — Top <b>1%</b> of cohort, SRM Institute of Science and Technology (2023, 2024).
-- 📄 Research contribution on privacy preservation in cloud computing for healthcare.
-- 🚀 Finalist (<b>Top 16 / 7500+ teams</b>), SBI Life Hack-AI-Thon 2024.
+### 🏆 Achievements
+🏅 **DomainFi Challenge Winner (2025)** — $10,000 USDC  
+📄 Research contribution on privacy preservation in cloud computing  
+🚀 Finalist — SBI Life Hack-AI-Thon 2024 (Top 16 / 7500+ teams)
 
-<hr/>
+---
 
-✨ I use GitHub to build production-oriented projects, document learning, and grow as a full-stack and Android app developer.
+✨ I use GitHub to learn in public, build meaningful projects, and grow as a full-stack and Android developer.
