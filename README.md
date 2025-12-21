@@ -45,7 +45,6 @@ Backend-driven mobile application connecting users with mentors and counselors, 
 
 ### 🏆 Achievements
 - 🥇 **DomainFi Challenge Winner (2025)** — Awarded **$10,000 USDC** for blockchain domain infrastructure.
-- 🎓 **Dean’s List** — Top **1%** of cohort, SRM Institute of Science and Technology *(2023, 2024)*.
 - 📄 Research contribution on privacy preservation in cloud computing for healthcare.
 - 🚀 Finalist (**Top 16 / 7500+ teams**), SBI Life Hack-AI-Thon 2024.
 
