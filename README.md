@@ -51,7 +51,7 @@ Full-stack Android application connecting users with mentors and counselors
 ---
 
 ### 🏆 Achievements
-🏅 **DomainFi Challenge Winner (2025)** — $10,000 USDC  
+🏅 **DomainFi Challenge Winner (2025)**  
 📄 Research contribution on privacy preservation in cloud computing  
 🚀 Finalist — SBI Life Hack-AI-Thon 2024 (Top 16 / 7500+ teams)
 
