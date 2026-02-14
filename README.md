@@ -25,7 +25,7 @@ I’m passionate about building scalable applications, working with data-driven 
 ### 🎓 Education
 **B.Tech in Computer Science & Engineering (Data Science)**  
 SRM Institute of Science and Technology  
-📊 **CGPA:** 9.09
+📊 **CGPA:** 9.15
 
 ---
 
